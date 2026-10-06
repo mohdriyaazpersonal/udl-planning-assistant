@@ -1,0 +1,36 @@
+SAVED ASSISTANT REUSE — captured 7 October 2026
+Source chat: https://chatgpt.com/g/g-p-6ac58523a1e48191aae7a32d90d13a60-udl-planning-assistant-snhu/c/6ac586b3-6428-83ee-8a8e-c4c56dd4a27f
+Run after reloading project settings and verifying the saved instruction text exactly matched the 1,351-character mission prompt. Codex supplied the prompt for Mohd Riyaaz. Invented workplace context; no classroom trial.
+
+You said:
+Fresh verification after saving the project instructions. Invented adult workplace training: 12 new service staff, 15 minutes, paper/board only, no budget or internet. Goal: independently WRITE a coherent professional customer email acknowledging a delayed parcel, applying a fictional policy accurately and proposing an allowed next step. Policy: check shipment status first; replacement only after confirmed loss; refunds require supervisor approval; no delivery-date promise without verification. Current lesson reads the policy aloud once then asks for cold writing. Validated design hypotheses: transient information, first-attempt pressure and blank-page planning. These are not observed learner deficits.
+Fixed: independent final writing and all content/organization criteria. May vary: readable policy access, rehearsal and blank planning scaffold. Accessibility: grayscale readable text, no audio-only essential information, no mandatory speaking.
+Use your saved instructions to propose a concise menu across all three UDL lenses, two options each. Apply exact mission CLEAR: Connected to goal, Legitimate evidence of intended skill, Equivalent challenge/cognitive demand, Accessible and usable, Realistic for time/tools. Recommend a small starter set, show a 15-minute schedule, and explain whether spoken video or copying a completed email could replace the final written response. End with your two refinement questions. About 500 words.
+…
+Show more
+ChatGPT said:
+
+The goal is the construct: independently writing a coherent professional customer email that accurately applies policy and proposes an allowed next step. The methods—policy access, rehearsal, and planning supports—may vary. The three validated barriers are design hypotheses, not learner deficits.
+
+UDL lens	Option → barrier addressed	Goal support + resources	CLEAR
+Engagement	1. Goal/prediction preview: Before writing, learners identify what a successful response must accomplish. → first-attempt pressure	Makes expectations predictable without supplying assessed content. Resources: board, 1 min.	C Yes—supports the writing goal. L Yes—final writing still evidences the intended skill. E Yes—same cognitive demand. A Yes—clarifies purpose without adding a barrier. R Yes—fits existing tools/time.
+Engagement	2. Optional solo or pair rehearsal: Briefly plan what the email needs to communicate; speaking is never required. → first-attempt pressure	Allows idea rehearsal before independent writing. Resources: paper/partner, 2 min.	C Yes—prepares policy-based composition. L Yes—rehearsal is practice; final evidence remains independent writing. E Yes—does not solve the assessed task. A Yes—solo route avoids mandatory speaking. R Yes—2 minutes.
+Representation	3. Persistent policy reference: Give each learner the four policy rules in concise grayscale-readable print. → transient information	Removes memory-for-one-hearing as an unintended demand. Resources: small paper reference.	C Yes—supports accurate policy application. L Yes—writing demonstrates application, not recall from oral delivery. E Yes—reasoning demand is unchanged. A Yes—essential information is visually persistent and readable. R Yes—paper only.
+Representation	4. Model causal form with a parallel example: On the board, show policy fact → implication → allowed response using a different scenario. → transient information / first-attempt pressure	Makes the reasoning pattern visible without providing the assessed email. Resources: board, 2 min.	C Yes—models policy-to-response reasoning. L Yes—learners must still generate their own evidence. E Yes—no assessed answer is supplied. A Yes—visible model supplements oral explanation. R Yes—brief board model.
+Action & expression	5. Blank organizer: “Problem / relevant policy / allowed next step / email order.” → blank-page planning	Externalizes planning while leaving all content decisions to the learner. Resources: paper, 1–2 min.	C Yes—supports coherent organization. L Yes—final email still shows the intended writing skill. E Yes—learner generates and organizes content. A Yes—reduces blank-page load without dictating answers. R Yes—simple paper scaffold.
+Action & expression	6. Optional scratch outline: Learners may jot keywords or sequence points before drafting. → blank-page planning	Offers a lighter planning route for those who do not want the organizer. Resources: existing paper.	C Yes—supports composition. L Yes—final email remains the evidence. E Yes—no content is supplied. A Yes—flexible, simple planning route. R Yes—no extra resources.
+Small starter set
+
+I’d start with 3 + 4 + 5, while allowing 2 as an optional rehearsal route. That directly addresses all three validated barriers with minimal setup while preserving independent writing and every content/organization criterion.
+
+15-minute schedule: 0–2 min: goal/prediction preview and distribute persistent policy reference. 2–4 min: model the parallel policy → implication → response reasoning pattern. 4–6 min: blank-organizer planning, with optional solo/pair rehearsal. 6–14 min: independent final email writing, with policy reference still available. 14–15 min: independent check against the required criteria.
+
+Spoken video and copying
+
+Neither should replace the final written response. A spoken video changes the response mode from coherent professional writing to oral communication, so it changes the assessed construct; it should be flagged rather than recommended as an equivalent assessment route. It also conflicts with the no-mandatory-speaking constraint.
+
+Copying a completed email likewise fails construct alignment: success could demonstrate transcription rather than independently organizing, composing, and applying policy. In CLEAR terms, it fails L (Legitimate evidence) and E (Equivalent challenge). A structurally analogous model using different content is appropriate; a completed answer to copy is not.
+
+Two refinement questions: Which starter support would be easiest to prepare consistently—the persistent policy card, parallel board model, or blank organizer? And should the final self-check name all four policy constraints explicitly, or only the broader content/organization criteria learners already know?
+
+

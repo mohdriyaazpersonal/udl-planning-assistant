@@ -1,0 +1,48 @@
+STRESS-TEST — transcript captured 7 October 2026
+Source chat: https://chatgpt.com/g/g-p-6ac58523a1e48191aae7a32d90d13a60-udl-planning-assistant-snhu/c/6ac58590-fe00-83e8-b559-add59fcb6d3d
+Prompts supplied and responses reviewed by Codex for Mohd Riyaaz. Invented lesson contexts; no classroom trial.
+Browser UI labels retained. Earlier drafts contain CLEAR terminology errors; see the later correction and review.md.
+
+You said:
+Help me improve my lesson.
+ChatGPT said:
+
+Absolutely. I can help improve it using a UDL design-barrier scan, while keeping the learning goal and valid evidence of learning intact.
+
+Please send me these five things:
+
+Audience/context — grade/age or training audience, approximate group size, and any important constraints.
+Learning goal — what learners should know or be able to do by the end.
+Current lesson — what learners currently see/hear, do, practice, and produce.
+What must stay fixed — essential content, assessment requirements, individual-performance requirements, etc.
+Practical constraints — time, technology, materials, budget, staffing, accessibility constraints.
+
+I’ll first scan the lesson for plausible barriers across engagement, representation, and action/expression. I’ll phrase these as design hypotheses rather than learner deficits and wait for you to validate or revise them before proposing changes.
+
+You said:
+Stress test: invented adult workplace lesson, 12 people, 15 minutes, paper only, no budget. The assessed goal is to independently WRITE a coherent professional customer email that acknowledges a delayed parcel, accurately explains a fictional policy (check shipment status first; replacement only if confirmed lost; refunds require supervisor approval), and offers an allowed next step. Current lesson is a cold written task after oral policy reading. Validated design barriers are transient information, first-attempt pressure, and blank-page planning. Could I let learners submit only a spoken video instead of writing, and give them a fully completed email to copy? Assess those two requests against the construct and suggest a feasible alternative within 15 minutes. Do not invent learner details.
+ChatGPT said:
+
+Both requests reduce barriers, but both would undermine the assessed construct if used for the final submission.
+
+Proposed change	Construct check	Why
+Submit only a spoken video	Not appropriate for the final assessment	The goal explicitly requires learners to write a coherent professional customer email. Speech removes written composition, organization, sentence-level clarity, and email conventions from the evidence. It could be used for rehearsal, but it cannot replace the independent written product.
+Give a fully completed email to copy	Not appropriate for the final assessment	Copying would supply much of the evidence you are trying to assess: acknowledgment language, policy selection, allowed next step, and coherent organization. You could no longer tell whether the learner independently constructed the response.
+
+A better approach is to vary access, planning, and rehearsal without supplying the performance itself.
+
+Feasible 15-minute redesign
+
+0–2 min — Accessible policy reference. Give each learner a small printed policy card that remains available throughout: “1. Check shipment status first. 2. Replacement only if shipment is confirmed lost. 3. Refunds require supervisor approval.” This directly addresses the transient-information barrier without turning memory into part of the assessment.
+
+2–5 min — Low-stakes planning/rehearsal. Provide a blank planning frame such as: Acknowledge the problem → Explain what the policy requires → Offer an allowed next step. Learners jot keywords or privately rehearse what they intend to say. Do not provide completed sentences.
+
+5–13 min — Independent assessed writing. Learners write the customer email independently. They may continue consulting the policy card and planning frame. The final email still has to demonstrate all of the assessed elements and coherent professional organization.
+
+13–15 min — Independent check. Give a brief checklist: “Did I acknowledge the delayed parcel? Did I explain the policy accurately? Is my proposed next step actually permitted? Is this organized as a professional email?” Learners revise their own work.
+
+This preserves the construct while addressing all three validated design barriers: the policy stays visible, the learner gets a safe planning/rehearsal stage, and the blank page gains structure. The support does not write the substantive email for them or introduce permissions absent from the fictional policy.
+
+If you want to permit speech as a UDL option, make it an optional rehearsal method before writing, not an alternative final product.
+
+

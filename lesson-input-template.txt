@@ -1,0 +1,18 @@
+Audience/context: [invented, public or de-identified description; no learner profiles]
+Learning goal: [observable knowledge or skill]
+Current lesson/assessment: [what learners access, do and submit]
+Likely design barriers: [hypotheses; or ask for a scan and wait for validation]
+Fixed requirements: [construct, required evidence and criteria]
+What can vary: [methods, access formats and response modes]
+Time/tools/access constraints: [actual practical limits]
+
+First distinguish the goal from the method. When barriers are not yet validated, scan engagement, representation, and action and expression; explain your hypotheses and wait for validation. Then suggest 2 options per lens, identify each barrier and resource, and recommend a small starter set. Keep individual assessment evidence where required.
+
+Apply the exact SNHU mission CLEAR checks separately to every option:
+C — Connected: Does this option directly support the stated goal?
+L — Legitimate evidence: Would success demonstrate the intended knowledge or skill?
+E — Equivalent challenge: Is the cognitive demand comparable across options?
+A — Accessible and usable: Does it remove a likely barrier without creating a new one?
+R — Realistic: Can learners and the instructor use it with available time, tools, and support?
+
+CLEAR is original to this Skills Studio mission, not part of the CAST UDL Guidelines or an established UDL acronym. Do not rename the checks. Flag any option that changes the assessed construct. Do not supply a completed assessed answer as a scaffold. End with two questions to help the educator choose and refine, not a claim of full accessibility.
